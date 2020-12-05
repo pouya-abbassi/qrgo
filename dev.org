@@ -1,0 +1,8 @@
+* Documents
+  - https://www.thonky.com/qr-code-tutorial/
+
+* Black and White
+  - http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/halftone_QR/halftoneQR_sigga13.html
+  - http://cgv.cs.nthu.edu.tw/Projects/Recreational_Graphics/Halftone_QRCodes/
+  - https://mathematica.stackexchange.com/questions/120041/how-to-generate-image-like-qr-code-with-mathematica
+  - https://research.swtch.com/qart
